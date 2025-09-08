@@ -64,7 +64,7 @@ Passionate about clean design, interactive UI, and building things that matter.
 
 ## 🌐 Live Projects
 
-- 🔗 **[mdshayon.com](https://the-shahrukh-khan-frontend.vercel.app/)** — Personal portfolio with animations, gradients, and advanced integrations
+- 🔗 **[mdshahrukhkhan.com](https://the-shahrukh-khan-frontend.vercel.app/)** — Personal portfolio with animations, gradients, and advanced integrations
 - 🎮 WebRTC Chat & Video App — Real-time calling with React + SimplePeer
 - 🔐 Web3 Voting DApp — Ethereum smart contracts with secure token voting
 
