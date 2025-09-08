@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://the-shahrukh-khan-frontend.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mdshahrukhkhan.com-ff6e91?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
