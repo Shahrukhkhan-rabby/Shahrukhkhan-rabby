@@ -110,9 +110,9 @@ Passionate about clean design, interactive UI, and building things that matter.
 Feel free to reach out or collaborate — I'm always excited about new ideas and projects!
 
 📧 **Email:** [shahrukhkhan3418198@gmail.com](mailto:shahrukhkhan3418198@gmail.com)  
-🌐 **Website:** [mdshayon.com](the-shahrukh-khan-frontend.vercel.app)  
-🐦 **X:** [@shayon_md](https://x.com/shahrukh_m607)  
-📷 **LinkedIn:** [@md-samsuzzoha](https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/)
+🌐 **Website:** [mdshahrukhkhan](the-shahrukh-khan-frontend.vercel.app)  
+🐦 **X:** [@mdshahrukhkhan](https://x.com/shahrukh_m607)  
+📷 **LinkedIn:** [@mdshahrukhkhan](https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/)
 
 ---
 
@@ -123,9 +123,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/bubble-gum-man-gaming.gif" width="300" alt="Shayon coding gif" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/bubble-gum-man-gaming.gif" width="300" alt="Shahrukh coding gif" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shayondev&style=flat-square&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shahrukhdev&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
