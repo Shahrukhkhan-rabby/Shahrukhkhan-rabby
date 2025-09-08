@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://the-shahrukh-khan-frontend.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-the-shahrukh-khan-frontend.vercel.app-ff6e91?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mdshayon.com-ff6e91?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-shahrukhkhan3418198@gmail.com-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" />
