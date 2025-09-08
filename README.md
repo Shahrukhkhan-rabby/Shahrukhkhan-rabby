@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h1 align="center">👋 Hi, I'm Md Shahrukh Khan</h1>
 
 <p align="center">
