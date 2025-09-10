@@ -132,3 +132,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahrukhdev&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
+
+---
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=md-mobassher&theme=react&border=61dafb&hide_border=true" alt="md-mobassher" /> 
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=false&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align="center">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mobassher&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-mobassher&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</p>
