@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm Md Shahrukh Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF6E91&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Web+%26+Blockchain+Developer;Freelancer+%7C+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=61dafb&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Web+%26+Blockchain+Developer;Freelancer+%7C+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h5 align="center">
