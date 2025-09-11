@@ -25,13 +25,14 @@
   </a>
 
   <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Portfolio" height="40" width="40" />
+    <img src="https://i.ibb.co.com/8L9gJRjw/profile-Pic.jpg" alt="Portfolio" height="40" width="40" style="border-radius: 50%;" />
   </a>
 
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" />
   </a>
 </h5>
+
 
 
 
