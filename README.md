@@ -7,19 +7,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=61dafb&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Web+%26+Blockchain+Developer;Freelancer+%7C+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" /></a></code>
-  
-  <code><a href="https://wa.me/8801787144607" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="40" width="40" /></a></code>
-  
-  <code><a href="https://discord.com/channels/shahrukhkhanrabby" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" height="40" width="40" /></a></code>
-  
-  <code><a href="https://www.facebook.com/shahrukhkhan.rabby/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a></code>
-  
-  <code><a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Portfolio" height="40" width="40" /></a></code>
-  
-  <code><a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" /></a></code>
+<h5 align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+
+  <a href="https://wa.me/8801787144607" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="40" width="40" />
+  </a>
+
+  <a href="https://discord.com/channels/shahrukhkhanrabby" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" height="40" width="40" />
+  </a>
+
+  <a href="https://www.facebook.com/shahrukhkhan.rabby/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+
+  <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Portfolio" height="40" width="40" />
+  </a>
+
+  <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" />
+  </a>
 </h5>
+
 
 
 
