@@ -29,7 +29,7 @@
   </a>
 
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="52" width="40" />
   </a>
 </h5>
 
