@@ -28,9 +28,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 
-  <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
-  </a>
+<a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" height="40" width="40" />
+</a>
 </h5>
 
 
