@@ -12,6 +12,10 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 
+  <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/3694/3694372.png?semt=ais_hybrid" width="40" height="40" alt="gmail logo"  />
+  </a>
+
   <a href="https://wa.me/8801787144607" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="40" width="40" />
   </a>
@@ -22,10 +26,6 @@
 
   <a href="https://www.facebook.com/shahrukhkhan.rabby/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-
-  <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.freepik.com/256/3694/3694372.png?semt=ais_hybrid" width="40" height="40" alt="gmail logo"  />
   </a>
 
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
