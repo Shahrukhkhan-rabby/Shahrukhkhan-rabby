@@ -55,8 +55,8 @@ Passionate about clean design, interactive UI, and building things that matter.
 
 - 📋 Languages:
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-38B2AC?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-777BB4?style=flat&logo=typescript)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
   ![Python](https://img.shields.io/badge/Python-244C6F?style=flat&logo=python&logoColor=white)&nbsp;
   ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust)&nbsp;
   ![Solidity](https://img.shields.io/badge/Solidity-05122A?style=flat&logo=solidity)&nbsp;
@@ -142,6 +142,7 @@ Passionate about clean design, interactive UI, and building things that matter.
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
   ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
   ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+
 
 
 
