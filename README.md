@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/13660/internet.svg" alt="Portfolio" height="40" width="40" />
+    <img src="https://www.svgrepo.com/show/13660/internet.svg" alt="Portfolio" height="40" width="40" />
   </a>
 
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
