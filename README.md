@@ -7,17 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF6E91&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Web+%26+Blockchain+Developer;Freelancer+%7C+Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://the-shahrukh-khan-frontend.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-05122A?style=flat&logo=google-chrome&logoColor=FF6E91" />
-  </a>
-  <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail&logoColor=D14836" />
-  </a>
-</p>
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="md-mobassher" height="40" width="40" /></a></code>
+  <code><a href="https://wa.me/+8801787144607" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="md_mobasshert" height="40" width="40" /></a></code>
+  <code><a href="https://discord.gg/RVqtHAxr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="eaY6PMHq" height="40" width="40" /></a></code>
+  <code><a href="https://fb.com/mdmobassherf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmobassherf" height="40" width="40" /></a></code>
+</h5>
 
 
 ---
