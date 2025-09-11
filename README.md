@@ -8,11 +8,19 @@
 </p>
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="md-mobassher" height="40" width="40" /></a></code>
-  <code><a href="https://wa.me/+8801787144607" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="md_mobasshert" height="40" width="40" /></a></code>
-  <code><a href="https://discord.gg/RVqtHAxr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="eaY6PMHq" height="40" width="40" /></a></code>
-  <code><a href="https://fb.com/mdmobassherf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmobassherf" height="40" width="40" /></a></code>
+  <code><a href="https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" /></a></code>
+  
+  <code><a href="https://wa.me/8801787144607" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="40" width="40" /></a></code>
+  
+  <code><a href="https://discord.com/channels/shahrukhkhanrabby" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" height="40" width="40" /></a></code>
+  
+  <code><a href="https://www.facebook.com/shahrukhkhan.rabby/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a></code>
+  
+  <code><a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Portfolio" height="40" width="40" /></a></code>
+  
+  <code><a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" /></a></code>
 </h5>
+
 
 
 ---
