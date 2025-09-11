@@ -24,12 +24,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 
- <code>
   <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
     <img align="center" src="https://i.ibb.co/8L9gJRjw/profile-Pic.jpg" alt="Portfolio" height="40" width="40" style="border-radius:50%;" />
   </a>
-</code>
-
 
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" />
