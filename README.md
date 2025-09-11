@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://the-shahrukh-khan-frontend.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.freepik.com/256/3694/3694372.png?semt=ais_hybrid" width="52" height="40" alt="gmail logo"  />
+    <img src="https://cdn-icons-png.freepik.com/256/3694/3694372.png?semt=ais_hybrid" width="40" height="40" alt="gmail logo"  />
   </a>
 
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
