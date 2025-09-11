@@ -9,15 +9,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shahrukh-khan-5858a6320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://the-shahrukh-khan-frontend.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mdshahrukhkhan.com-ff6e91?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-05122A?style=flat&logo=google-chrome&logoColor=FF6E91" />
   </a>
   <a href="mailto:shahrukhkhan3418198@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-shahrukhkhan3418198@gmail.com-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail&logoColor=D14836" />
   </a>
 </p>
+
 
 ---
 
