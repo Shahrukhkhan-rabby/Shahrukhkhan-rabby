@@ -56,7 +56,7 @@ Passionate about clean design, interactive UI, and building things that matter.
 - 📋 Languages:
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-38B2AC?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-7844BD?style=flat&logo=typescript)&nbsp;
   ![Python](https://img.shields.io/badge/Python-244C6F?style=flat&logo=python&logoColor=white)&nbsp;
   ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust)&nbsp;
   ![Solidity](https://img.shields.io/badge/Solidity-05122A?style=flat&logo=solidity)&nbsp;
