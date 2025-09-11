@@ -35,33 +35,37 @@ Passionate about clean design, interactive UI, and building things that matter.
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Languages & Frameworks
+- 📋 Languages:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-244C6F?style=flat&logo=python&logoColor=white)&nbsp;
+  ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust)&nbsp;
+  ![Solidity](https://img.shields.io/badge/Solidity-05122A?style=flat&logo=solidity)
 
-### ⛓ Blockchain & Web3
+- 🎨 Frameworks & Libraries:
 
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana)
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-7844BD?style=flat-square)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square)
+  ![React](https://img.shields.io/badge/React-0D6D8C?style=flat&logo=react&logoColor=white)&nbsp;
+  ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js)&nbsp;
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
+  ![Django](https://img.shields.io/badge/Django-20AA76?style=flat&logo=django&logoColor=white)&nbsp;
 
-### ☁️ Tools & DevOps
+- ⛓ Blockchain & Web3:
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
-![Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat-square&logo=awsamplify)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![CPanel](https://img.shields.io/badge/-CPanel-FF6E91?style=flat-square&logo=cpanel)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)&nbsp;
+  ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=black)&nbsp;
+  ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-7844BD?style=flat)&nbsp;
+  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat)
+
+- ☁️ Tools & DevOps:
+
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)&nbsp;
+  ![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify)&nbsp;
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)&nbsp;
+  ![CPanel](https://img.shields.io/badge/CPanel-FF6E91?style=flat&logo=cpanel&logoColor=white)
+
 
 ---
 
