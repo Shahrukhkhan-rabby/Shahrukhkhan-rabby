@@ -38,7 +38,6 @@
 <a href="https://codeforces.com/profile/shahrukhkhan-rabby">
    <img src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
 </a>
-
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=shahrukhkhan-rabby&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukhkhan-rabby" />
 </p>
