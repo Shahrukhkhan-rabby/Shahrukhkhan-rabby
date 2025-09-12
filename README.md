@@ -43,9 +43,10 @@
    <img src="https://komarev.com/ghpvc/?username=shahrukhkhan-rabby&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukhkhan-rabby" />
 </p>
 
-<a href="https://wakatime.com/@93abcedd-eb2c-4f83-befb-93eb1c9f3463">
-   <img src="https://wakatime.com/badge/user/93abcedd-eb2c-4f83-befb-93eb1c9f3463.svg" alt="Total time coded since Jul 28 2024" />
+<a href="https://wakatime.com/@shahrukhkhan_rabby">
+   <img src="https://wakatime.com/badge/user/shahrukhkhan_rabby.svg" alt="Total time coded" />
 </a>
+
 
 
 ---
