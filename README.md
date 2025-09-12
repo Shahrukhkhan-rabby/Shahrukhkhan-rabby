@@ -38,9 +38,9 @@
 <a href="https://codeforces.com/profile/shahrukhkhan-rabby">
    <img src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
 </a>
-<p align="left">
+<a align="left">
    <img src="https://komarev.com/ghpvc/?username=shahrukhkhan-rabby&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukhkhan-rabby" />
-</p>
+</a>
 <a href="https://wakatime.com/@93abcedd-eb2c-4f83-befb-93eb1c9f3463">
   <img src="https://wakatime.com/badge/user/e3d15f9e-99b8-42ef-b6ff-cba3b4151d9c.svg" alt="Total time coded since Jul 28 2024" />
 </a>
