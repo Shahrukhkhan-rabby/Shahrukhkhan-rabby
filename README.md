@@ -44,6 +44,9 @@
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=shahrukhkhan-rabby&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukhkhan-rabby" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahrukhdev&style=flat-square&color=brightgreen" alt="Profile views" />
+</p>
 
 <!-- WakaTime -->
 <a href="https://wakatime.com/@93abcedd-eb2c-4f83-befb-93eb1c9f3463">
@@ -228,9 +231,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/bubble-gum-man-gaming.gif" width="300" alt="Shahrukh coding gif" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahrukhdev&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
+
 
 ---
 
