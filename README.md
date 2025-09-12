@@ -36,7 +36,7 @@
 
 
 <a href="https://codeforces.com/profile/shahrukhkhan-rabby">
-   <img src="https://raw.githubusercontent.com/engrsakib/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
+   <img src="https://raw.githubusercontent.com/shahrukhkhan-rabby/cf-stats/main/output/max_rating.svg" alt="Codeforces Max Rating" />
 </a>
 
 <p align="left">
