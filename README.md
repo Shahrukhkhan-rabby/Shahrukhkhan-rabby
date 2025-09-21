@@ -107,6 +107,7 @@ Passionate about clean design, interactive UI, and building things that matter.
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)&nbsp;
   ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)&nbsp;
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat)&nbsp;
   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
 
 - ⛓ Blockchain & Web3:
