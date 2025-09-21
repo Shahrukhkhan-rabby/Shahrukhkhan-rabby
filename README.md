@@ -192,6 +192,22 @@ Passionate about clean design, interactive UI, and building things that matter.
 4. 🚀 Automate deployment with GitHub workflows
 
 ---
+#### 🔄 Automation & Systems  
+- **n8n Automation Workflows** 🤖  
+- **MCP Servers (AI Modular Control Protocol)** 🖥️  
+- **CI/CD pipelines (GitHub Actions, Dockerized Deployments)** ⚡  
+- **Serverless Functions (Vercel, AWS Lambda, Cloudflare Workers)** 🌍  
+
+---
+
+### 🛡️ Cybersecurity & System-Level Work  
+- 🔐 **JWT / OAuth2 / Role-Based Auth**  
+- 🛡️ **Secure REST & GraphQL APIs**  
+- ⚡ **Rate Limiting, API Hardening, DDoS Mitigation**  
+- 🧩 **System Programming (Rust, C, Go)**  
+- 🔎 **Vulnerability Scanning & Penetration Testing**  
+
+---
 
 ## 🧠 Inspiration & References
 
