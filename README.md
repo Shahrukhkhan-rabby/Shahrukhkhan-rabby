@@ -209,16 +209,6 @@ Passionate about clean design, interactive UI, and building things that matter.
 
 ---
 
-## 🧠 Inspiration & References
-
-- [InBio Template](https://rainbowit.net/html/inbio/)
-- [Morex Demo](https://themihub.com/html/morex-demo/morex/index-dark.html)
-- [Webflow Portfolio Tips](https://webflow.com/blog/design-portfolio-examples)
-- [Heroicons](https://unpkg.com/browse/@heroicons/react@2.0.18/24/outline/)
-- [About Section Design](https://www.pinterest.com/pin/395402042298164902/)
-
----
-
 ## 💬 Get in Touch
 
 Feel free to reach out or collaborate — I'm always excited about new ideas and projects!
