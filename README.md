@@ -237,11 +237,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center">
-    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Shahrukhkhan-rabby&theme=react&border=61dafb&hide_border=true" alt="Shahrukhkhan-rabby" /> 
-</p>
 
-  
 <p align="center">
   <div align="center">
     <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Shahrukhkhan-rabby&theme=react&border=61dafb&hide_border=true" alt="Shahrukhkhan-rabby" /> 
