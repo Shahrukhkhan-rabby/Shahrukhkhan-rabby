@@ -237,14 +237,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
+<p align="center">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Shahrukhkhan-rabby&theme=react&border=61dafb&hide_border=true" alt="Shahrukhkhan-rabby" /> 
+</p>
 
   
 <p align="center">
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=Shahrukhkhan-rabby&theme=react&border=61dafb&hide_border=true" alt="Shahrukhkhan-rabby" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Shahrukhkhan-rabby&show_icons=false&theme=react&border_color=61dafb&hide_border=true" />
-</div>
+  <div align="center">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Shahrukhkhan-rabby&theme=react&border=61dafb&hide_border=true" alt="Shahrukhkhan-rabby" /> 
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Shahrukhkhan-rabby&show_icons=false&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
   <br><br><br><br><br><br><br><br><br>
   <div align="center">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrukhkhan-rabby&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
