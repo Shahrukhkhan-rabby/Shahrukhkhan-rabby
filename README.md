@@ -245,3 +245,41 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahrukhkhan-rabby&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </p>
+
+
+---
+
+
+### ⚡ GitHub Stats ⚡
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shahrukhkhan-rabby&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" 
+    alt="Shahrukh Khan's GitHub stats" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=shahrukhkhan-rabby&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukhkhan-rabby&layout=compact&theme=tokyonight&hide_border=false" 
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahrukhkhan-rabby&theme=tokyo-night&hide_border=false" 
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  🟢 <b>Total commits (last year):</b> <code>554</code>
+</p>
+
